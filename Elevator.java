@@ -39,6 +39,7 @@ public class Elevator {
    int incrementFloor;
    //ArrayList of floors to be visited on the up trip
    ArrayList<Integer> up;
+
    //ArrayList of floors to be visited on the down trip
    ArrayList<Integer> down;
 
